@@ -5,7 +5,7 @@
 Склонуйте репозиторій:
 
 ```sh
-git clone https://github.com/JeffTheK/ind
+git clone https://github.com/JeffTheK/ind.git
 ```
 
 Запустіть app.py
