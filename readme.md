@@ -11,6 +11,7 @@ git clone https://github.com/JeffTheK/ind
 Запустіть app.py
 ```sh
 make install
+```
 
 ## Meta
 
