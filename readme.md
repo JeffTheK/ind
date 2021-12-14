@@ -10,7 +10,7 @@ git clone https://github.com/JeffTheK/ind.git
 
 Запустіть app.py
 ```sh
-make install
+python app.py
 ```
 
 ## Meta
